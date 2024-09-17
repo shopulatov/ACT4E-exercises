@@ -1,0 +1,47 @@
+{
+  "install_requires": [
+    "ACT4E-exercises"
+  ],
+  "tests_require": [],
+  "srcdir": "src",
+  "package_name": "ACT4E-MySolutions",
+  "entry_points": {
+    "console_scripts": []
+  },
+  "zip_safe": true,
+  "include_package_data": true,
+  "packages": [
+    "act4e_solutions"
+  ],
+  "py_modules": [
+    "act4e_solutions",
+    "act4e_solutions.intro",
+    "act4e_solutions.maps",
+    "act4e_solutions.maps_representation",
+    "act4e_solutions.posets",
+    "act4e_solutions.posets_bounds",
+    "act4e_solutions.posets_construction",
+    "act4e_solutions.posets_interval",
+    "act4e_solutions.posets_map",
+    "act4e_solutions.posets_monoidal",
+    "act4e_solutions.posets_product",
+    "act4e_solutions.posets_representation",
+    "act4e_solutions.posets_sum",
+    "act4e_solutions.relations",
+    "act4e_solutions.relations_representation",
+    "act4e_solutions.semigroups",
+    "act4e_solutions.semigroups_morphisms_representation",
+    "act4e_solutions.semigroups_representation",
+    "act4e_solutions.sets",
+    "act4e_solutions.sets_power",
+    "act4e_solutions.sets_product",
+    "act4e_solutions.sets_properties",
+    "act4e_solutions.sets_representation",
+    "act4e_solutions.sets_sum",
+    "act4e_solutions.sets_union_inter"
+  ],
+  "version": "0.1",
+  "author": "",
+  "author_email": "",
+  "url": ""
+}
